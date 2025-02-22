@@ -2,5 +2,7 @@
     "title":"克喵Kemeow",
     "subTitle":"致力于分享资源和生活~",
     "avatarUrl":"https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/kemeow815@avatar.png",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
     "GMEEK_VERSION":"last"
 }
