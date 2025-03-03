@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>克喵🐱の部落格</title>
+  
+  <subtitle>Ke Miao Blog</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-03-03T05:03:55.577Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>克喵爱吃卤面</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/03/03/hello-world/"/>
+    <id>http://example.com/2025/03/03/hello-world/</id>
+    <published>2025-03-03T05:03:55.577Z</published>
+    <updated>2025-03-03T05:03:55.577Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown-标题语法 | 技术分享</title>
+    <link href="http://example.com/2025/02/12/Markdown-%E6%A0%87%E9%A2%98%E8%AF%AD%E6%B3%95/"/>
+    <id>http://example.com/2025/02/12/Markdown-%E6%A0%87%E9%A2%98%E8%AF%AD%E6%B3%95/</id>
+    <published>2025-02-12T10:15:25.000Z</published>
+    <updated>2025-02-12T10:27:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文位置: <a href="https://markdown.com.cn/basic-syntax/headings.html">https://markdown.com.cn/basic-syntax/headings.html</a></p><h1 id="标题语法"><a href="#标题语法" class="headerlink" title="标题语法"></a>标题语法</h1><p>要创建标题，请在单词或短语前面添加井号 (#) 。<code>#</code> 的数量代表了标题的级别。例如，添加三个 <code>#</code> 表示创建一个三级标题 <code>&lt;h3&gt;</code> (例如：<code>### My Header</code>)。</p><table><thead><tr><th>Markdown语法</th><th>HTML</th><th>预览效果</th></tr></thead><tbody><tr><td><code># Heading level 1</code></td><td>&lt;h1&gt;Heading level 1&lt;&#x2F;h1&gt;</td><td><h1> Heading level 1</h1></td></tr><tr><td><code>## Heading level 2</code></td><td>&lt;h2&gt;Heading level 1&lt;&#x2F;h2&gt;</td><td><h2>Heading level 2</h2></td></tr><tr><td><code>### Heading level 3</code></td><td>&lt;h3&gt;Heading level 1&lt;&#x2F;h3&gt;&#96;</td><td><h3>Heading level 3</h3></td></tr><tr><td><code>#### Heading level 4</code></td><td>&lt;h4&gt;Heading level 1&lt;&#x2F;h4&gt;</td><td><h4>Heading level 4</h4></td></tr><tr><td><code>##### Heading level 5</code></td><td>&lt;h5&gt;Heading level 1&lt;&#x2F;h5&gt;</td><td><h5>Heading level 5</h5></td></tr><tr><td><code>###### Heading level 6</code></td><td>&lt;h6&gt;Heading level 1&lt;&#x2F;h6&gt;</td><td><h6>Heading level 6</h6></td></tr></tbody></table><h2 id="可选语法"><a href="#可选语法" class="headerlink" title="可选语法"></a>可选语法</h2><p>还可以在文本下方添加任意数量的 &#x3D;&#x3D; 号来标识一级标题，或者 – 号来标识二级标题。</p><table><thead><tr><th>Markdown语法</th><th>HTML</th><th>预览效果</th></tr></thead><tbody><tr><td><code>Heading level 1</code></br> <code>===============</code></td><td>&lt;h1&gt;Heading level 1&lt;&#x2F;h1&gt;</td><td><h1>Heading level 1</h1></td></tr><tr><td><code>Heading level 2</code></br><code>---------------</code></td><td>&lt;h2&gt;Heading level 2&lt;&#x2F;h2&gt;</td><td><h2>Heading level 2</h2></td></tr></tbody></table><h2 id="最佳实践"><a href="#最佳实践" class="headerlink" title="最佳实践"></a>最佳实践</h2><p>不同的 <strong>Markdown</strong> 应用程序处理 # 和标题之间的空格方式并不一致。为了兼容考虑，请用一个空格在 <code>#</code> 和标题之间进行分隔。</p><table><thead><tr><th align="left">✅  Do this</th><th align="left">❌  Don’t do this</th></tr></thead><tbody><tr><td align="left"><code># Here&#39;s a Heading</code></td><td align="left"><code>#Here&#39;s a Heading</code></td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">记录 Markdown 语法的标题语法,方便学习和查找。</summary>
+    
+    
+    
+    <category term="技术分享" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="markdown" scheme="http://example.com/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown-速查表</title>
+    <link href="http://example.com/2025/02/11/Markdown-%E9%80%9F%E8%A7%88%E8%A1%A8/"/>
+    <id>http://example.com/2025/02/11/Markdown-%E9%80%9F%E8%A7%88%E8%A1%A8/</id>
+    <published>2025-02-11T10:00:00.000Z</published>
+    <updated>2025-02-11T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>原文位置: <a href="https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88">https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88</a></p><h1 id="总览"><a href="#总览" class="headerlink" title="总览"></a>总览</h1><p>Markdown 速查表提供了所有 <strong>Markdown</strong><br>语法元素的基本解释。如果你想了解某些语法元素的更多信息，请参阅更详细的<br><strong>基本语法</strong> 和 <strong>扩展语法</strong>.</p><h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><p>这些是 <strong>John Gruber</strong> 的原始设计文档中列出的元素。所有 <strong>Markdown</strong><br>应用程序都支持这些元素。</p><table><thead><tr><th>元素</th><th>Markdown 语法</th></tr></thead><tbody><tr><td>标题（Heading）</td><td># H1 一级标题</br>  ## H2 二级标题</br>  ### H3 三级标题</td></tr><tr><td>粗体（Bold）</td><td>**bold text**</td></tr><tr><td>斜体（Italic）</td><td>*italicized text*</td></tr><tr><td>引用块（Blockquote）</td><td>&gt; blockquote</td></tr><tr><td>有序列表（Ordered List）</td><td>1. First item</br> 2. Second item</br> 3. Third item</td></tr><tr><td>无序列表（Unordered List）</td><td>- First item</br> - Second item</br> - Third item</td></tr><tr><td>代码（Code）</td><td>`code&#96;</td></tr><tr><td>分隔线（Horizontal Rule）</td><td>—</td></tr><tr><td>链接（Link）</td><td>[title](<a href="https://www.example.com/">https://www.example.com</a>)</td></tr><tr><td>图片（Image）</td><td>![alt text](image.jpg)</td></tr></tbody></table><h2 id="扩展语法"><a href="#扩展语法" class="headerlink" title="扩展语法"></a>扩展语法</h2><p>这些元素通过添加额外的功能扩展了基本语法。但是，并非所有 <strong>Markdown</strong><br>应用程序都支持这些元素。</p><table><thead><tr><th align="center">元素</th><th align="left">Markdown 语法</th></tr></thead><tbody><tr><td align="center">表格（Table）</td><td align="left">| Syntax | Description |</br>| ———–  |  ———–  |</br>| Header  |  Title  |</br>| Paragraph | Text \</td></tr><tr><td align="center">代码块（Fenced Code Block）</td><td align="left"><code>```</code> </br><code>&#123;</code></br><code>&quot;firstName&quot;: &quot;John&quot;,</code> </br><code>&quot;lastName&quot;: &quot;Smith&quot;,</code></br><code>&quot;age&quot;: 25</code></br><code>&#125;</code></br><code>```</code></td></tr><tr><td align="center">脚注（Footnote）</td><td align="left">Here’s a sentence with a footnote. <code>[^1]</code></br><code>[^1]</code>: This is the footnote.</td></tr><tr><td align="center">标题编号（Heading ID）</td><td align="left">### My Great Heading <code>&#123;#custom-id&#125;</code></td></tr><tr><td align="center">定义列表（Definition List）</td><td align="left">term</br>: definition</td></tr><tr><td align="center">任务列表（Task List）</td><td align="left"><code>- [x] Write the press release</code></br><code>- [ ] Update the website</code></br><code>- [ ] Contact the media</code></td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">记录 Markdown 的用法，便于查找。</summary>
+    
+    
+    
+    <category term="技术分享" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="markdown" scheme="http://example.com/tags/markdown/"/>
+    
+  </entry>
+  
+</feed>
